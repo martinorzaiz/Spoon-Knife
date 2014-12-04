@@ -1,9 +1,8 @@
-### Well hello there!
+## Ejemplo de una colaboración 
 
-This repository is meant to provide an example for *forking* a repository on GitHub.
+Cuando colaboras con la gente, la gente lo que haces es un `git clone` y modificas tu copia. Tras realizar la modificación hace un `git pull request` para que esa persona haga un pull de tu repositorio y pueda incluir las mejoras que tu has hecho en su repositorio. 
 
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+Por que ?
+Es el modo de centralizar el codigo. Si el proyecto es mio, todo el mundo seguirá mi repositorio y para incluir las mejoras que tu hayas hecho tu a mi me haces un `request` para que yo haga un `pull`
 
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
-
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+:D
